@@ -17,5 +17,7 @@ app.use('/auth', authRoutes);
 
 const gadgetRoutes = require('./routes/gadgetRoutes');
 app.use('/gadgets', gadgetRoutes);
+const cors = require('cors');
+app.use(cors());
 
 module.exports = app;
