@@ -9,11 +9,11 @@ const swaggerOptions = {
       description: 'API documentation for IMF Gadget Management',
     },
     servers: [
-      {
-        url: 'http://localhost:3000',
-        description: 'Local Server',
-      },
-    ],
+  {
+    url: 'https://imf-gadget-api-ywda.onrender.com',
+    description: 'Production Server',
+  },
+],
     components: {
       securitySchemes: {
         bearerAuth: {
