@@ -46,7 +46,7 @@ Authorization: Bearer <token>
 
 API Documentation
 Swagger UI available at:
-http://localhost:3000/docs
+https://imf-gadget-api-ywda.onrender.com/docs
 
 Setup & Run Locally
 Prerequisites:
@@ -55,7 +55,7 @@ Node.js
 
 PostgreSQL
 
-Railway/Render DB URL (or local Postgres)
+Railway DB URL (or local Postgres)
 
 Steps:
 
@@ -81,7 +81,7 @@ Start the server:
 node src/server.js
 
 Deployed Link
-Replace this section with your live Render or Railway URL after deployment.
+https://imf-gadget-api-ywda.onrender.com
 
 Author
 Kavin Sasikumar
