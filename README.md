@@ -82,6 +82,7 @@ node src/server.js
 
 Deployed Link
 https://imf-gadget-api-ywda.onrender.com
+
 Postman Collection Link:
 https://web.postman.co/workspace/My-Workspace~2d360807-126f-45d5-8647-3a5def8e7db1/collection/46908922-14b69569-032e-44e8-bd50-94066512b37e?action=share&source=copy-link&creator=46908922
 Author
